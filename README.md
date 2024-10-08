@@ -1,4 +1,5 @@
-# how to run locally
+## how to run locally
 
--npm install
--npm run dev
+#npm install
+
+#npm run dev
